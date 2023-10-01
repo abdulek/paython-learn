@@ -1,0 +1,6 @@
+1. sklearn for machine learning
+2. pdfreader for read pdffiles
+2.2 PyPDF for pdf
+3. notification
+4. text to speech
+
